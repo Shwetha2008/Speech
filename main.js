@@ -4,7 +4,7 @@ screen_width=0;
 screen_height =0;
 apple ="";
 speak_data="";
-to_number="";
+to_number= 0;
 draw_apple = "";
 
 function preload(){
